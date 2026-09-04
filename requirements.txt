@@ -1,4 +1,5 @@
 cheroot
+psycopg2-binary
 Pillow
 lxml
 requests
